@@ -4,13 +4,13 @@
  - Objective: "Aplicar todos os conceitos de performance no React que foram apresentados durante o módulo"
  - Challenge Description: ...
 
-***:checkered_flag:To do Items:***  
+***:checkered_flag: To do Items:***  
   - [ ] ...
 
-***🛠Tools***:  
+***🛠 Tools***:  
 ...
 
-***:computer:Screens***:  
+***:computer: Screens***:  
 ...
 
 Developed in 03/2022
